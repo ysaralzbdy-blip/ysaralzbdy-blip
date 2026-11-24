@@ -15,5 +15,5 @@ I am a passionate developer exploring web development and software engineering. 
 
 ### 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ysaralzbdy-blip&show_icons=true&theme=radical" />
 </p>
