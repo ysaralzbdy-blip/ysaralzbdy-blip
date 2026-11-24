@@ -2,7 +2,8 @@
 <h3 align="center">[ Artificial Intelligence]</h3>
 
 <p align="center">
-  <b>[طالب بكالوريوس في الذكاء الاصطناعي | مطور برامج متكامل | مهتم بتعلم الآلة
+  <b>[AI Undergrad | Full-Stack Developer | ]
+
 ]</b>
 </p>
 
