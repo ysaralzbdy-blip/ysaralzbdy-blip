@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm [ ysar ]! 👋</h1>
-<h3 align="center">[ Artificial Intelligence]</h3>
+<h1 align="center">Hi there, I'm  ysar ! 👋</h1>
+<h3 align="center"> Artificial Intelligence </h3>
 
 <p align="center">
-  <b>[AI Undergrad | Full-Stack Developer | ]
+  <b> AI Undergrad | Full-Stack Developer | 
 
 ]</b>
 </p>
