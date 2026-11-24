@@ -1,19 +1,42 @@
-### 👋 Welcome to my GitHub!
+<h1 align="center">Hi there, I'm [ ysar ]! 👋</h1>
+<h3 align="center">[ Artificial Intelligence]</h3>
 
-I am a passionate developer exploring web development and software engineering. I am proficient in **Python**, **HTML**, and **CSS**, and I am always eager to learn new technologies and build cool projects.
+<p align="center">
+  <b>[طالب بكالوريوس في الذكاء الاصطناعي | مطور برامج متكامل | مهتم بتعلم الآلة
+]</b>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Skills:
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on...
+- 🌱 I’m currently learning...
+- 👯 I’m looking to collaborate on...
+- 💬 Ask me about...
+- ⚡ Fun fact...
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+### Tools & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 ---
 
-### 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ysaralzbdy-blip&show_icons=true&theme=radical" />
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysaralzbdy-blip&theme=radical" />
 </p>
